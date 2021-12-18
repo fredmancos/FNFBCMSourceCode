@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xe.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xe0000" x="0" y="0" width="1920" height="1920"/>
+	<SubTexture name="xe0001" x="1920" y="0" width="1920" height="1920"/>
+	<SubTexture name="xe0002" x="3840" y="0" width="1920" height="1920"/>
+	<SubTexture name="xe0003" x="5760" y="0" width="1920" height="1920"/>
+	<SubTexture name="xe0004" x="0" y="1920" width="1920" height="1920"/>
+	<SubTexture name="xe0005" x="1920" y="1920" width="1920" height="1920"/>
+	<SubTexture name="xe0006" x="3840" y="1920" width="1920" height="1920"/>
+	<SubTexture name="xe0007" x="5760" y="1920" width="1920" height="1920"/>
+	<SubTexture name="xe0008" x="0" y="3840" width="1920" height="1920"/>
+	<SubTexture name="xe0009" x="1920" y="3840" width="0" height="0" frameX="0" frameY="0" frameWidth="1920" frameHeight="1920"/>
+</TextureAtlas>

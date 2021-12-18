@@ -1,0 +1,48 @@
+{
+	"storyName": "Business casual man",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bcm",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Back to the Board",
+			"bcm",
+			[
+				255,
+				153,
+				115
+			]
+		],
+		[
+			"Buzzword",
+			"bcm",
+			[
+				255,
+				153,
+				113
+			]
+		],
+		[
+			"Office Buster",
+			"bcm",
+			[
+				255,
+				153,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
